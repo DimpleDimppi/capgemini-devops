@@ -1,4 +1,9 @@
 class A{
-void welcom(){
+void welcome(){
 }
+void add(){
+  int r= x+y;
+}
+//working on feature-3
+
 }
