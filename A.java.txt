@@ -5,6 +5,8 @@ void add(int x, int y){
 int r=x+y
 }
 void sub(){
-int z=x-y;
+
+}
+void null(){
 }
 }
