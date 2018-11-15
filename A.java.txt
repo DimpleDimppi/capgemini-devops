@@ -1,9 +1,20 @@
 class A{
 void welcome(){
 }
+
 void add(){
   int r= x+y;
 }
 //working on feature-3
 //working on feature-4
 }
+
+void add(int x, int y){
+int r=x+y
+}
+void sub(){
+}
+void null(){
+}
+}
+
